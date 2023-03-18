@@ -1,0 +1,3 @@
+pyms:
+  config:
+    app_name: "Python Microservice"
